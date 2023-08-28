@@ -28,7 +28,8 @@ public class AboutMeTest {
 	alex.myGrade =4.32f;
 	alex.myHeight = 6.76543;
 	alex.myGender = 'M';
-	alex.usCitizen = false;		
+	alex.usCitizen = false;
+	//
 			
 			
 			
